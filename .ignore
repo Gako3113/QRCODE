@@ -1,2 +1,4 @@
-*.png
+*.pyc
 __pycache__/
+*.png
+qrcode.png
