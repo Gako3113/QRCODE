@@ -16,6 +16,6 @@ StreamlitやPythonライブラリの優秀さを痛感します
  - qrcode 7.3.1
  - pillow 9.0.1
  
-#始め方
+# 始め方
  1. 上記ライブラリなどをインストール
  1. ` streamlit run app.py`でスタート
